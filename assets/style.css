@@ -55,7 +55,7 @@ list-style-type: none;
 .ansBtn:active:focus {
     box-shadow: none;
     outline: none;
-    background-color: white;
+    background-color: rgb(32, 101, 122);
 }
 
 /* Media queries for background image from https://web.dev/optimize-css-background-images-with-media-queries/ */
