@@ -1,3 +1,9 @@
+This timed code quiz that features multiple-choice questions about javascript. If answered incorrectly, time is deducted.
+Technologies used are: HTML, CSS, Javascript
+
+Contact: mr.matcke@gmail.com
+
+
 ## User Story
 
 ```
